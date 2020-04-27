@@ -1,0 +1,11 @@
+{
+  "name": "p5ts_with_classes",
+  "version": "1.0.0",
+  "description": "A basic starter project to use objects and modules with p5ts",
+  "devDependencies": {
+    "@types/p5": "^0.9.0"
+  },
+  "scripts": {
+    "watch": "tsc --watch"
+  }
+}
